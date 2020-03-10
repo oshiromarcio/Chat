@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Aplicativo de chat simples",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oshiro-marcio@dev.azure.com/oshiro-marcio/MyDevs/_git/Chat"
+  },
+  "author": "Marcio Oshiro",
+  "license": "ISC"
+}
